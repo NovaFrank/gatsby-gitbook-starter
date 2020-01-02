@@ -112,7 +112,7 @@ const SidebarLayout = ({ location }) => (
         return (
           <Sidebar>
             <ul className={'rightSideBarUL'}>
-              <div className={'rightSideTitle'}>CONTENTS</div>
+              <div className={'rightSideTitle'}>内容</div>
               {finalNavItems}
             </ul>
           </Sidebar>

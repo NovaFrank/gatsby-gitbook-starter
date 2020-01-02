@@ -1,5 +1,5 @@
 ---
-title: "Syntax Highlighting"
+title: "帮助文档内容一"
 metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
@@ -19,7 +19,13 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 + const data = [1,2];
 ```
 
-## Live Editing example
+## 在线编辑
+
+```javascript react-live=true
+<button className={'btn btn-default'}>Change my text</button>
+```
+
+## 测试编辑标题
 
 ```javascript react-live=true
 <button className={'btn btn-default'}>Change my text</button>

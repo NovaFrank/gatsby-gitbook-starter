@@ -1,6 +1,5 @@
 import React from 'react';
 import { StaticQuery, graphql } from 'gatsby';
-import GitHubButton from 'react-github-btn'
 import Link from "./link";
 import './styles.css';
 
@@ -14,7 +13,6 @@ const Header = ({location}) => (
           site {
             siteMetadata {
               headerTitle
-              githubUrl
               helpUrl
               tweetText
               logo
@@ -33,7 +31,6 @@ const Header = ({location}) => (
         site: {
           siteMetadata: {
             headerTitle,
-            githubUrl,
             helpUrl,
             tweetText,
             logo,
@@ -66,15 +63,10 @@ const Header = ({location}) => (
                 <hr/>
               </div>
                 <ul className={'nav navbar-nav navBarUL'}>
-                  {githubUrl !== '' ?
-                    (<li className={'githubBtn'}>
-                      <GitHubButton href={githubUrl} data-show-count="true" aria-label="Star on GitHub">Star</GitHubButton>
-                    </li>) : null}
                   {helpUrl !== '' ? 
-                    (<li><a href={helpUrl}>Need Help?</a></li>) : null
+                    (<li><a href={helpUrl}>需要帮助?</a></li>) : null
                   }
                 </ul>
-              }
               <ul className={'nav navbar-nav navBarUL navbar-right'}>
                 {tweetText !== '' ? 
                   (<li>

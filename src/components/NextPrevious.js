@@ -43,7 +43,7 @@ class NextPrevious extends React.Component {
             </div>
             <div className={'preRightWrapper'}>
               <div className={'smallContent'}>
-                <span>Previous</span>
+                <span>上一页</span>
               </div>
               <div className={'nextPreviousTitle'}>
                 <span>{nav[currentIndex-1].title}</span>
@@ -55,7 +55,7 @@ class NextPrevious extends React.Component {
           (<Link to={nav[currentIndex+1].url} className={'nextBtn'}>
             <div className={'nextRightWrapper'}>
               <div className={'smallContent'}>
-                <span>Next</span>
+                <span>下一页</span>
               </div>
               <div className={'nextPreviousTitle'}>
                 <span>{nav[currentIndex+1] && nav[currentIndex+1].title}</span>

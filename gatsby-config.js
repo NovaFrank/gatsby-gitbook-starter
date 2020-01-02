@@ -10,7 +10,6 @@ module.exports = {
     favicon: config.siteMetadata.favicon,
     logo: config.header.logo,
     headerTitle: config.header.title,
-    githubUrl: config.header.githubUrl,
     helpUrl: config.header.helpUrl,
     tweetText: config.header.tweetText,
     headerLinks: config.header.links,
