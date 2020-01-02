@@ -1,0 +1,4 @@
+server {
+    server_name bslong.cn;
+    return 301 $scheme://www.bslong.cn$request_uri;
+}

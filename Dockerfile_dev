@@ -1,0 +1,6 @@
+FROM nginx
+VOLUME /tmp
+ENV LANG en_US.UTF-8
+COPY ./app-nginx-dev/ /etc/nginx/
+COPY ./dist/ /usr/share/nginx/html/
+COPY ./dist/help-static/ /usr/share/nginx/html/

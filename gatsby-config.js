@@ -11,7 +11,6 @@ module.exports = {
     logo: config.header.logo,
     headerTitle: config.header.title,
     helpUrl: config.header.helpUrl,
-    tweetText: config.header.tweetText,
     headerLinks: config.header.links,
     siteUrl: config.gatsby.siteUrl,
   },

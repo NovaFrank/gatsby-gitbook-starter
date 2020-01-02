@@ -1,20 +1,6 @@
-FROM node:carbon
-
-# Create app directory
-WORKDIR /app
-
-# Install app dependencies
-RUN npm -g install gatsby-cli
-
-COPY package*.json ./
-
-RUN npm ci
-
-# Bundle app source
-COPY . .
-
-# Build static files
-RUN npm run build
-
-# serve on port 8080
-CMD ["gatsby", "serve", "--verbose", "--prefix-paths", "-p", "8080", "--host", "0.0.0.0"]
+FROM nginx
+VOLUME /tmp
+ENV LANG en_US.UTF-8
+COPY ./app-nginx/ /etc/nginx/
+COPY ./public/ /usr/share/nginx/html/
+COPY ./public/help-static/ /usr/share/nginx/html/
