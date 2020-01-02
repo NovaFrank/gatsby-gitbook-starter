@@ -1,7 +1,7 @@
 ---
 title: "预览模块"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page 2"
+metaTitle: "页面描述标题-"
+metaDescription: "页面内容描述"
 ---
 
 The following is a code block with JavaScript language syntax highlighting.
@@ -12,10 +12,8 @@ The following is a code block with diff. Lines with `+` highlighted in green sha
 
 
 ## 在线编辑
+![avatar](http://baidu.com/pic/doge.png)
 
-```javascript react-live=true
-<button className={'btn btn-default'}>Change my text</button>
-```
 
 ## 测试编辑标题
 
