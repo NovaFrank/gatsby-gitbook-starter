@@ -219,12 +219,12 @@ pre {
 }
 
 .subLevel:hover {
-  background-color: #542683;
+  background-color: #fff;
 }
 
 .subLevel a {
   line-height: 1.5;
-  color: #fff;
+  color: #666;
   font-size: 14px;
   font-weight: 500;
   text-decoration: none;
@@ -233,7 +233,7 @@ pre {
 }
 
 .subLevel.active {
-  color: rgb(116, 76, 188);
+  color:#333;
   border-color: rgb(230,236,241) !important;
   border-style: solid none solid solid;
   border-width: 1px 0px 1px 1px;
@@ -241,7 +241,7 @@ pre {
 }
 
 .subLevel.active a {
-  color: rgb(116, 76, 188);
+  color: #333;
 }
 
 .titleWrapper {
