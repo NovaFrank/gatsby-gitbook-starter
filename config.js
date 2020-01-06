@@ -1,6 +1,7 @@
 const config = {
 	"gatsby": {
-		"pathPrefix": "/",
+		"pathPrefix": "/help-static/",
+		"siteUrl":'https://www.qushow365.com/help',
 		"gaTrackingId": null
 	},
 	"header": {
