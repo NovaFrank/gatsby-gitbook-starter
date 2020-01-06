@@ -2,4 +2,4 @@ FROM nginx
 VOLUME /tmp
 ENV LANG en_US.UTF-8
 COPY ./app-nginx-dev/ /etc/nginx/
-COPY ./public/ /usr/share/nginx/html/
+COPY ./ /usr/share/nginx/html/
