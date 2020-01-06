@@ -7,7 +7,6 @@ const config = {
 		"logo": "https://sta.qushow365.com/public/logo.svg",
 		"title": "帮助中心",
 		"helpUrl": "",
-		"tweetText": "",
 		"links": [
 			{ "text": "", "link": ""}
 		],

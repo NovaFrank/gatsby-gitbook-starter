@@ -14,7 +14,6 @@ const Header = ({location}) => (
             siteMetadata {
               headerTitle
               helpUrl
-              tweetText
               logo
               headerLinks {
                 link
@@ -32,7 +31,6 @@ const Header = ({location}) => (
           siteMetadata: {
             headerTitle,
             helpUrl,
-            tweetText,
             logo,
             headerLinks,
           }
@@ -68,13 +66,6 @@ const Header = ({location}) => (
                   }
                 </ul>
               <ul className={'nav navbar-nav navBarUL navbar-right'}>
-                {tweetText !== '' ? 
-                  (<li>
-                    <a href={'https://twitter.com/intent/tweet?&text=' + tweetText} target="_blank">
-                      <img className={'twitterIcon'} src={twitter} alt={'Twitter'} />
-                    </a>
-                   </li>) : null
-                }
                 {headerLinks.map((link, key) => {
                   if(link.link !== '' && link.text !== '') {
                     return(

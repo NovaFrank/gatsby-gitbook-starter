@@ -51,7 +51,6 @@ Open `config.js` for templating variables. Broadly configuration is available fo
 - `header` config for site header configuration like
     - `title` - The title that appears on the top left
     - `helpUrl` - Help URL for pointing to resources
-    - `tweetText` - Tweet text
     - `links` - Links on the top right
 
 - `sidebar` config for navigation links configuration
