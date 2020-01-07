@@ -14,8 +14,16 @@ const config = {
 	},
 	"sidebar": {
 		"forcedNavOrder": [
-			"/introduction",
-    		"/codeblock"
+			"/1-intor",
+			"/2-dic",
+			"/3-module",
+			"/4-create-project",
+			"/5-trigger-event",
+			"/6-preview-release",
+			"/7-client-data",
+			"/8-aduit",
+			"/9-skill",
+			"/10-other"
 		],
 		"links": [
 			{ "text": "", "link": ""},

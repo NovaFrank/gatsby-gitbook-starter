@@ -1,8 +1,6 @@
 import React from "react";
 import Heading from "../heading";
 import Text from "./text";
-import Code from "./code";
-import CodeBlock from "./codeBlock";
 import Pre from "./pre";
 import AnchorTag from "./anchor";
 
@@ -16,8 +14,6 @@ export default {
   h6: props => <Heading id={props.children} {...props} is="h6" fontSize={0} />,
   p: props => <Text {...props} is="p" lineHeight={1.625} mt={3} mb={4} />,
   pre: Pre,
-  code: CodeBlock,
-  inlineCode: props => <Code {...props} />,
   a: props => <AnchorTag {...props} />
   // TODO add `img`
   // TODO add `blockquote`

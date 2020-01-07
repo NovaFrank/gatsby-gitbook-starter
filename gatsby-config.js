@@ -15,7 +15,6 @@ module.exports = {
     siteUrl: config.gatsby.siteUrl,
   },
   plugins: [
-    'gatsby-plugin-sitemap',
     'gatsby-plugin-sharp',
     {
       resolve: `gatsby-plugin-layout`,

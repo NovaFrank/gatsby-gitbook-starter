@@ -3,7 +3,7 @@ import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import MDXRenderer from "gatsby-mdx/mdx-renderer";
 import styled, { injectGlobal } from "react-emotion";
-import { Layout, Link } from "$components";
+import { Layout } from "$components";
 import NextPrevious from '../components/NextPrevious';
 import '../components/styles.css';
 import config from '../../config';
@@ -43,31 +43,7 @@ injectGlobal`
   }
 `;
 
-const Edit = styled('div')`
-  padding: 1rem 1.5rem;
-  text-align: right;
 
-  a {
-    font-size: 14px;
-    font-weight: 500;
-    line-height: 1em;
-    text-decoration: none;
-    color: #555;
-    border: 1px solid rgb(211, 220, 228);
-    cursor: pointer;
-    border-radius: 3px;
-    transition: all 0.2s ease-out 0s;
-    text-decoration: none;
-    color: rgb(36, 42, 49);
-    background-color: rgb(255, 255, 255);
-    box-shadow: rgba(116, 129, 141, 0.1) 0px 1px 1px 0px;
-    height: 30px;
-    padding: 5px 16px;
-    &:hover {
-      background-color: rgb(245, 247, 249);
-    }
-  }
-`;
 
 export default class MDXRuntimeTest extends Component {
   render() {
@@ -79,7 +55,6 @@ export default class MDXRuntimeTest extends Component {
         siteMetadata: { docsLocation, title }
       }
     } = data;
-    const gitHub = require('../components/images/github.svg');
 
     const navItems = allMdx.edges
       .map(({ node }) => node.fields.slug)
@@ -101,19 +76,26 @@ export default class MDXRuntimeTest extends Component {
         },
         { items: [] }
       );
-
+    console.log()
     const nav = forcedNavOrder
       .reduce((acc, cur) => {
         return acc.concat(navItems[cur]);
       }, [])
       .concat(navItems.items)
-      .map(slug => {
-        const { node } = allMdx.edges.find(
-          ({ node }) => node.fields.slug === slug
+      .map( (slug) => {
+        const node = allMdx.edges.find(
+          (nodeitem) => {
+            if(nodeitem.node && nodeitem.node.fields.slug === slug){
+              return nodeitem.node
+            }
+          }
         );
-
-        return { title: node.fields.title, url: node.fields.slug };
+        if(node){
+          return { title: node.node.fields.title, url: node.node.fields.slug };
+        }
       });
+
+      console.log(nav, '菜单 数据') 
 
     // meta tags
     const metaTitle = mdx.frontmatter.metaTitle;

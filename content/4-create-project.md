@@ -1,0 +1,162 @@
+---
+title: "4. 创建和编辑我的项目"
+metaTitle: "趣味互动营销HTML内容快速制作与发布的平台"
+metaDescription: "趣show是一个提供趣味互动营销HTML内容快速制作与发布的平台，为千万的品牌主，中小商家和自媒体提供全新的互动营销视频制作技术支持与营销生态整合。"
+---
+
+### 4.1 创建项目
+
+1. 填写项目名称
+
+1. 填写该项目的简介
+
+1. 选择制作项目的画布尺寸
+
+         我们的项目可以在各个渠道播放,支持手机，IPAD，PC，和自定义尺寸制作。为了制作和播放效果最佳化，建议用户选择一个主要的制作画布类型。
+
+1. 填写分享标题 
+
+        分享标题是指项目发布时在对应的展现渠道页面中的标题
+
+1. 添加项目的缩略图，和项目简介
+
+         这些信息是您发布的项目在推广渠道里（如微信朋友圈）展现的具体缩略图和简介
+
+1. 保存项目信息
+
+![](https://tcs-ga.teambition.net/storage/111o06610086c3f697ce819cba9151c465a3?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW8wNjYxMDA4NmMzZjY5N2NlODE5Y2JhOTE1MWM0NjVhMyJ9.DizQ2vr0F2eGBxzLKciknkX0MlcJnowpJb37Jj4SkeE&download=image.png "")
+
+### 4.2 编辑项目
+
+保存完新建项目信息后，会进入下方的编辑主页面。点击需要编辑的项目名称就可以进入制作和编辑阶段，具体操作如下
+
+![](https://tcs-ga.teambition.net/storage/111o55be6b9259d3cd3a91d802b98bbf9078?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW81NWJlNmI5MjU5ZDNjZDNhOTFkODAyYjk4YmJmOTA3OCJ9.2kCGIFxLRNrWIBENqtrJtbEDFghd8tBvT3SzRwtPCf4&download=image.png "")
+
+### 4.3 创建场景
+
+每个场景在输出的HTML中对应一个单独的展现页面，用户可以通过添加多个场景来增加需要跳转和展现的页面，点击页面左侧【场景】按钮后，就可以添加场景。双击场景名称后可以编辑当前场景名称，或者删除场景。
+
+![](https://tcs-ga.teambition.net/storage/111oc93117e06bd1e1ad89e461c43c1e7437?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW9jOTMxMTdlMDZiZDFlMWFkODllNDYxYzQzYzFlNzQzNyJ9.EC9hIiMMyXQ_oUASTnapG9Tpf1C-RSb4nmQE97wLqI4&download=image.png "")
+
+### 4.4 创建图层
+
+点击你想要编辑的场景，然后点击左上角的【图层】按钮后就可以进入当前的编辑页面。中间的白板就是图层的画布。主要的页面内容创作都是在画布上完成。用户也可以在右侧【属性】框中自行调节图层的大小和背景色。图层页面中也提供丰富的编辑工具可以对内容进行编辑。
+
+![](https://tcs-ga.teambition.net/storage/111o15558e6d258165ce9d5527eaf517a389?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW8xNTU1OGU2ZDI1ODE2NWNlOWQ1NTI3ZWFmNTE3YTM4OSJ9.oczrApAHkC8X2CbBMCeKtfM4ncpLh88IMsjA2P9XS74&download=image.png "")
+
+图层缩放：可以通过左下角缩放符号进行放大或者缩小，以方便设计。
+
+![](https://tcs-ga.teambition.net/storage/111o536a1966766a4877e90ef0fd77f499fd?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW81MzZhMTk2Njc2NmE0ODc3ZTkwZWYwZmQ3N2Y0OTlmZCJ9.MuCWYlnY3iZ3Vz9XdAzKY9NfuTyKw7IewVdXcWj-1Zo&download=image.png "")
+
+### 4.5 添加组件
+
+在图层页面中，可以进行元素的增加和修改。点击页面上方的元素框内的各个组件选项，用户可以上传添加一个或者多个不同类型的元素，包括视频，图片，形状，文字，音乐，不同元素也可以反复添加。（注:个人上传的视频，图片和音乐素材，请确保符合用户手册中的版权要求）
+
+![](https://tcs-ga.teambition.net/storage/111o70f604afc3c5ef7a7d67f319791e9bd2?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW83MGY2MDRhZmMzYzVlZjdhN2Q2N2YzMTk3OTFlOWJkMiJ9.PeHp7O1nGjCscVfFJed2rEgVJ-_QZLnx79bknTaeNz4&download=image.png "")
+
+用户也可以点击页面右侧的【公共素材】和【背景音乐素材】按钮，加载趣show提供的免费图片和音乐素材。再次点击按钮后，素材库收回。
+
+![](https://tcs-ga.teambition.net/storage/111o1b0b2fa8051cedefa49957acd1534ccf?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW8xYjBiMmZhODA1MWNlZGVmYTQ5OTU3YWNkMTUzNGNjZiJ9.vzsEdunUxAELMw2SjDaCwAqP8SEP1n5FTUphNwjFlZ4&download=image.png "")
+
+用户也可以直接点选元素后通过Ctrl C 和Ctrl V来复制添加元素。
+
+### 4.6 编辑组件
+
+用户可以在单击页面右侧的素材属性后对元素进行各种编辑。具体如下：
+
+### 4.6.1 组件的属性
+
+![](https://tcs-ga.teambition.net/storage/111of1125f43fd93f01daa397f33c014814e?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW9mMTEyNWY0M2ZkOTNmMDFkYWEzOTdmMzNjMDE0ODE0ZSJ9.CHAdDon-18-yxmqetK0D5k-eJXpV8IN_tJxM81NVXk0&download=image.png "")
+
+位置：屏幕上图层的横纵坐标（以画布左上侧顶点为0，0基准点）。
+
+大小：图层的宽度和高度。
+
+旋转：图层按顺时针方向旋转的角度。
+
+锚点：图层的位置、大小、角度等发生变化时的基准点。
+
+圆角：矩形组件各角的圆弧度。调整的数值：0是正方形，100是圆形
+
+透明度：图层的透明度。0是全透明，100是完全显示。
+
+背景色：矩形或原型组件填充颜色。
+
+边框：向组件添加边框并调整边框位置以及颜色。
+
+阴影：向组件添加阴影并调整阴影的颜色以及其它相关值。可以调整阴影的长度，宽度，透明度和模糊度。
+
+### 4.6.2 组件的选择，缩放，翻转和移动
+
+用户可以在页面左上侧点击页面各个元素的描述框，快速选定元素，并进星编辑或者更名，删除等操作。
+
+![](https://tcs-ga.teambition.net/storage/111o25a71c336a917bdcd87ffc15d262e92d?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW8yNWE3MWMzMzZhOTE3YmRjZDg3ZmZjMTVkMjYyZTkyZCJ9.KjBEjT8gqgCiO9qGRvl1fUwV_9qgQIVPKKFY8KCgb7U&download=image.png "")
+
+选中元素后，可以通过点击元素上跳出的蓝色边框对元素进行随意移动和缩放。按住蓝框右侧的蓝色小圆点后转动鼠标可以以实现元素的翻转。
+
+通过Shift+鼠标拖动可以实现图片或者视频的同比放大或者缩小。趣show平台可以任意缩放元素的大小和尺寸，且不受画布大小影响。但是超出画板覆盖面（下图红色大框）的画面部分在播放时将不会显示。
+
+![](https://tcs-ga.teambition.net/storage/111o8e54721ac7d2efaf9ad7e60e398aca86?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW84ZTU0NzIxYWM3ZDJlZmFmOWFkN2U2MGUzOThhY2E4NiJ9.TSb7vM1Gt1av-4QjjKg5RE8egtfIPs-w-D9Tfb5IvgY&download=image.png "")
+
+### 4.6.3 操作的撤销和恢复
+
+用户可以通过点击画面上方的【前进】和【后退按钮】对操作进行撤销和回复。
+
+![](https://tcs-ga.teambition.net/storage/111o92a5b963a180074f74309c1bb5d1249b?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW85MmE1Yjk2M2ExODAwNzRmNzQzMDljMWJiNWQxMjQ5YiJ9.1JlTJCx6_jk5ORP9_dYlxivIR5BnYTfPMYkwUCAmYH8&download=image.png "")
+
+### 4.7 添加表单：
+
+点击页面上方的【表单】可以在页面中增加可输入性的表单或者按钮。然后可以在页面右侧增加该表单的标签和提示说明。用户也可以在页面右下侧对表单和按钮进行编辑。
+
+![](https://tcs-ga.teambition.net/storage/111o41ab2c2e0d852765039abae9256daad1?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW80MWFiMmMyZTBkODUyNzY1MDM5YWJhZTkyNTZkYWFkMSJ9.lbNfoGIf4qtiCRf481M4As4h5qcQCKkWEeM7YcjJssk&download=image.png "")
+
+### 
+
+### 4.8 组件的层级
+
+图层里的各个组件层级排列是按照元素添加的顺序进行排列，最先添加的元素位于画布的最底层，依次排列。用户可以再左侧的图层栏目中看到组件排列的层级（最新添加的在随最上方），在如果要调整组件在图层中位置，可以在左侧标题框点按住组件向上移动到最上层的白色虚线上就可以调整层级。
+
+![](https://tcs-ga.teambition.net/storage/111p2b5c2c3ad545ad90762d886201fb6f29?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXAyYjVjMmMzYWQ1NDVhZDkwNzYyZDg4NjIwMWZiNmYyOSJ9.4p964sBNU6OFjqwzub41XMCrBPnZ2TxuLVXjJfJcCzk&download=image.png "")
+
+视频教程：
+
+
+
+### 4.9 创建容器
+
+容器像是多个组件的组合，用户可以点击页面上方容器按钮来创建容器，并通过拖拉组件的方式往容器里添加或删除组件。同一容器中的组件将会在移动，触发/事件中保持一致。容器的边框，颜色位置都可以在页面右侧中的参数中进行调整。
+
+![](https://tcs-ga.teambition.net/storage/111of668376e8828a9d3d33a799881f6fffd?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW9mNjY4Mzc2ZTg4MjhhOWQzZDMzYTc5OTg4MWY2ZmZmZCJ9.HWmsy5sv4u-2NeM6j53ugwZ78bt7atxEwOH_KhZWZi4&download=image.png "")
+
+![](https://tcs-ga.teambition.net/storage/111oe6b8fb4b5e1523938ab65d79ef4834d7?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW9lNmI4ZmI0YjVlMTUyMzkzOGFiNjVkNzllZjQ4MzRkNyJ9.0IEoGMz0TI_lElida2nwcUbP4MW10PfgyH5Ej0LZ4_s&download=image.png "")
+
+4.9.1 容器内组件的添加 
+
+容器在画布中的大小和覆盖的元素并不是容器内的真实组件，用户如果要增加组件到容器内，可以按照页面左侧的组件标题，拖拽到容器标题中新出现的白色边框中，就完成容器的内容创建。
+
+![](https://tcs-ga.teambition.net/storage/111p4be219aaa861db694e2a6bb5a7d07746?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXA0YmUyMTlhYWE4NjFkYjY5NGUyYTZiYjVhN2QwNzc0NiJ9.VsQvR-F6wdeS2SiSB6AB26gitiiCBruhRk322DJxBOY&download=image.png "")
+
+请参考下面的视频教程：
+
+
+
+4.9.2 容器内组件的编辑
+
+容器内的组件也可以被移除。点按住想要移除的组件标题，往上或往下拖到一条新出现的白色虚线中间，放开鼠标就可以移除该组件了。
+
+![](https://tcs-ga.teambition.net/storage/111pea2adbd69d6384faca79afc1d12d29c7?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXBlYTJhZGJkNjlkNjM4NGZhY2E3OWFmYzFkMTJkMjljNyJ9.fCkn3vF1tPukRfllOAs_37urGMPjYRcLOEns7ZzalQc&download=image.png "")
+
+
+
+### 4.10 预览和保存
+
+用户可以随时预览，保存自己正在编辑的页面。点解页面右上侧的【预览】按钮后就可以预览你正在制作的页面内容。点击【保存】按钮后项目将被自动保存。
+
+Tips：如果需要视频在预览时可以自动播放，请点选右侧属性面板里的【自动播放】。
+
+![](https://tcs-ga.teambition.net/storage/111off60ff2cfa8dfc100f8fbca6a9946168?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQwMiwiaWF0IjoxNTc4MzY3NjAyLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW9mZjYwZmYyY2ZhOGRmYzEwMGY4ZmJjYTZhOTk0NjE2OCJ9.aFwnf9uD5WvPyTEgGtQe5rlAg7eOTjJpZ5-t8GZYgkA&download=image.png "")
+
+# 
+
+
+

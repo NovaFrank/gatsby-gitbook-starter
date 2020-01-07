@@ -1,0 +1,126 @@
+---
+title: "5. 添加触发和事件"
+metaTitle: "趣味互动营销HTML内容快速制作与发布的平台"
+metaDescription: "趣show是一个提供趣味互动营销HTML内容快速制作与发布的平台，为千万的品牌主，中小商家和自媒体提供全新的互动营销视频制作技术支持与营销生态整合。"
+---
+
+触发和事件是趣show交互内容展现方式的重点之一。通过对组件进行触发和事件属性的添加，可以让用户制作的HTML页面中的内容在播放过程中体现更多的交互性，多样性和趣味性，同时，不同的组件之间也可以相互左触发和事件动作。
+
+# 触发：
+
+触发是指用户通过对指定的组件进行行为的关联，来设置一个行为的触发条件。触发行为的类型包括3类：
+
+手势：
+
+       单击：手指触碰屏幕并马上离开的动作。
+
+       双击：手指连续触碰屏幕两次的动作。
+
+鼠标：
+
+       鼠标悬浮：使用鼠标可触发的动作。鼠标停留在目标对象上方时会触发一系列反应动作。
+
+       鼠标移出：使用鼠标可触发的动作。鼠标离开目标对象上方时会触发一系列反应动作。
+
+条件性触发：
+
+       监听： 当视频或者音频播放到一定时间点后，对目标对象触发一系列的反应动作
+
+
+
+### 添加触发：
+
+用户在选定一个组件后可以通过点击页面右侧中的【触发】框，对该组件进行触发行为的关联。
+
+![](https://tcs-ga.teambition.net/storage/111oee9c0cf0fc3fd98bd6ef02b7e07f1621?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW9lZTljMGNmMGZjM2ZkOThiZDZlZjAyYjdlMDdmMTYyMSJ9.Nppp-mCyI2-eR6mBF110DO8iBL9-uDYJgmTUM8gA1DE&download=image.png "")
+
+
+
+### 事件：
+
+事件是指组件的各种展现动作，主要类型包括：移动，大小，透明，颜色，转场，链接，文本，播放等。用户可以为相同或者不同的组件添加被触发后的事件。
+
+### 事件的添加
+
+组件在选择完触发条件后，页面会出现【添加事件】的按钮，点击按钮后，就会出现各种触发后事件动作的选项。然后在【触发元素】中选择你希望被触发的组件，就可以完成一次事件添加。
+
+![](https://tcs-ga.teambition.net/storage/111o8b074437f937009bb2841860ef3660a9?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW84YjA3NDQzN2Y5MzcwMDliYjI4NDE4NjBlZjM2NjBhOSJ9.fDl5KG-d1jaAMNsE5Iqi0pynGtIg5kN1c_V6Mxi3kP0&download=image.png "")
+
+### 移动
+
+选择【移动】事件，选定的组件在触发后可以移动到制定位置。同时可以设置移动的延时和移动的时长。移动的位置可以在下图的红框中设定。数值为正数时代表组件可以向左，向上移动。数值为负数时代表组件可以向右，向下移动。
+
+![](https://tcs-ga.teambition.net/storage/111o51a3dbedac6be9e2744b772512b1b9e5?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW81MWEzZGJlZGFjNmJlOWUyNzQ0Yjc3MjUxMmIxYjllNSJ9.ktd4hqLIPdMWjOkBoCU6bNz2IRTi74CTvnApPh2VF48&download=image.png "")
+
+Tips：为了准确和快速的输入想要移动的目的地坐标，用户可以单独添加一个组件，把它放到想要移动到的位置，记住这个位置的坐标，在点击原来的组件，在右侧填写移动的坐标就可以了。然后删除新增加的组件即可。
+
+![](https://tcs-ga.teambition.net/storage/111o911565c568c756a12413921897503e83?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW85MTE1NjVjNTY4Yzc1NmExMjQxMzkyMTg5NzUwM2U4MyJ9.BBmz4JFZiPt6QWGuWnRdg-rsqryTc-JAwD5J4IrSKxY&download=image.png "")
+
+### 大小
+
+选择【大小】事件，选定的组件在触发后可以进行放大或缩小。同时可以设置缩放的延时和时长。缩放的大小可以在下图的红框中的【大小】条件框中设定。数值为正数时代表组件可以放大，数值为负数时代表组件可以缩小。
+
+![](https://tcs-ga.teambition.net/storage/111o645495d40849a31a96efeadd809cc2aa?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW82NDU0OTVkNDA4NDlhMzFhOTZlZmVhZGQ4MDljYzJhYSJ9.ReqAIfwU3ANeUEeGHtpPVOXkVbli4805-UsCptyc-8s&download=image.png "")
+
+### 透明：
+
+选择【透明】事件，选定的组件在触发后可以进行透明度的变化。同时可以设置透明的延时和时长。透明度的数字调到0时，表示组件在页面里完全透明不显示。
+
+![](https://tcs-ga.teambition.net/storage/111o72f0e4a5b70f85253e38c9b1c09cdd76?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW83MmYwZTRhNWI3MGY4NTI1M2UzOGM5YjFjMDljZGQ3NiJ9.hqpzGUDGPKcVxDr-VJySYkAAqXxAkypVe9QTuep24oI&download=image.png "")
+
+颜色：
+
+选择【颜色】事件，选定的元素在触发后可以进行颜色的变化。同时可以设置颜色变化的延时和时长。
+
+![](https://tcs-ga.teambition.net/storage/111oa61676fd6c1f56a236098cba9e08fd9b?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW9hNjE2NzZmZDZjMWY1NmEyMzYwOThjYmE5ZTA4ZmQ5YiJ9.tg6rOULy6hWrR7aIN9Z1XUZkuof3H3BDH6i6lvyjTas&download=image.png "")
+
+转场：
+
+选择【转场】事件，当前的场景页面在触发后可以跳转到任意一个指定的场景页面。点击右侧属性智能面板页面中的【跳转到】可以选择想要跳转的页面。
+
+![](https://tcs-ga.teambition.net/storage/111o7793071ed8f5697712606aef208b8134?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW83NzkzMDcxZWQ4ZjU2OTc3MTI2MDZhZWYyMDhiODEzNCJ9.KtGaskM3pwTSiUYQx89Sn-PU0AujlXoaDrBVOtrhGEY&download=image.png "")
+
+链接：
+
+选择【链接】事件，当前的场景页面在触发后可以跳转到任意一个指定的网页页面。点击右侧属性智能面板中的【跳转到】可以选择想要跳转的页面
+
+![](https://tcs-ga.teambition.net/storage/111oc02c3a199c996f26a47971e87f9e92b5?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW9jMDJjM2ExOTljOTk2ZjI2YTQ3OTcxZTg3ZjllOTJiNSJ9.x52dGPqD5ocHcIdSwgzXlCsgd7FqjT-eZtim5s9gpa4&download=image.png "")
+
+### 文本：
+
+选择【文本】事件，当前的组件在触发后可以出现文本。点击右侧属性智能面板中的【文本】可以选择想要出现的文本字符，大小和位置等。
+
+![](https://tcs-ga.teambition.net/storage/111o4e43f76a6da927b2994b09829686259d?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW80ZTQzZjc2YTZkYTkyN2IyOTk0YjA5ODI5Njg2MjU5ZCJ9.x7jZzIx4a_l7nKXyjapqHAD46VTiuueUGLhYjKigR3k&download=image.png "")
+
+播放：
+
+选择【播放】事件，当前的场景页面在触发后可以跳转到任意一个指定的网页页面。点击右侧属性智能面板中的【跳转到】可以选择想要跳转的页面
+
+### 连续的触发和事件
+
+对同一组件或容器可以进行连续的触发和事件。选择元素后可以反复点击添加事件】和【添加触发条件】，以增加多个触发和事件，提高页面的变化性。
+
+![](https://tcs-ga.teambition.net/storage/111o80bc652aacc2042900bfa55d0ab6e455?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3ODk3MjQxMCwiaWF0IjoxNTc4MzY3NjEwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMW84MGJjNjUyYWFjYzIwNDI5MDBiZmE1NWQwYWI2ZTQ1NSJ9.E6sdEsKlYVjlRTMQZv-bxP83HYl-OePpfC6xRwzot1M&download=image.png "")
+
+# 解决方案
+
+提供用户能够解决问题的步骤；比如“当打印机没有纸的时候，红色指示灯后一直闪烁”。
+
+使用有序列表来描述解决的步骤，并提供必要的图片示意。
+
+1. 第一步流程
+
+1. 第二步流程
+
+1. ...
+
+![]( "")
+
+
+
+# 相关文档
+
+在这里关联和这个问题相关的文档，帮助用户更好的理解和解决问题。
+
+
+
