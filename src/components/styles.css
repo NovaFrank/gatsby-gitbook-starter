@@ -125,6 +125,12 @@ pre {
   border: 0 !important;
   background-color: rgb(245, 247, 249); /* !important; */
 }
+.mainWrapper>h2{
+  margin: 65px 0 20px;
+}
+.mainWrapper>h3{
+  margin: 55px 0 20px;
+}
 
 .mainWrapper ul, .mainWrapper ol {
   -webkit-padding-start: 40px;
