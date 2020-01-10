@@ -41,7 +41,7 @@ const Header = ({location}) => (
           <nav className={'navbar navbar-default navBarDefault'}>
             <div className={'navbar-header'}>
               <button type="button" className={'navbar-toggle collapsed navBarToggle'} data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                <span className={'sr-only'}>Toggle navigation</span>
+                <span className={'sr-only'}>切换</span>
                 <span className={'icon-bar'}></span>
                 <span className={'icon-bar'}></span>
                 <span className={'icon-bar'}></span>
@@ -64,6 +64,8 @@ const Header = ({location}) => (
                   {helpUrl !== '' ? 
                     (<li><a href={helpUrl}>需要帮助?</a></li>) : null
                   }
+                  <li><a href="/">官网</a></li>
+                  <li><a href="https://app.qushow365.com">工作台</a></li>
                 </ul>
               <ul className={'nav navbar-nav navBarUL navbar-right'}>
                 {headerLinks.map((link, key) => {

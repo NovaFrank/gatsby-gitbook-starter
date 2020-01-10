@@ -98,7 +98,7 @@ body {
 
 .navBarUL li a {
   font-family: 'Roboto';
-  color: #fff !important;
+  color: #333 !important;
   font-size: 16px;
   font-weight: 500;
   line-height: 1em;
@@ -108,6 +108,7 @@ body {
 {
   display: flex;
   align-items: center;
+  margin-left:60px;
 }
 .navBarUL li a img
 {

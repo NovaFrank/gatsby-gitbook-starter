@@ -18,12 +18,13 @@ const config = {
 			"/2-dic",
 			"/3-module",
 			"/4-create-project",
-			"/5-trigger-event",
-			"/6-preview-release",
-			"/7-client-data",
-			"/8-aduit",
-			"/9-skill",
-			"/10-other"
+			"/5-material",
+			"/6-trigger-event",
+			"/7-preview-release",
+			"/8-client-data",
+			"/9-aduit",
+			"/10-skill",
+			"/11-other"
 		],
 		"links": [
 			{ "text": "", "link": ""},
