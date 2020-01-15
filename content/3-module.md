@@ -7,7 +7,7 @@ metaDescription: "趣show是一个提供趣味互动营销HTML内容快速制作
 
  
 
-       登录趣show主页：[__http://app.qushow365.com/#/login__](http://app.qushow365.com/#/login)，既可开始制作趣show作品。发布趣show作品需要验证个人或者公司信息。
+       登录趣show主页：[http://app.qushow365.com/#/login](http://app.qushow365.com/#/login)，即可开始制作趣show作品。发布趣show作品需要验证个人或者公司信息。
 
 ### **3.2 平台主要模块**
 
