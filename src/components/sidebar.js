@@ -150,11 +150,17 @@ const SidebarLayout = ({ location }) => (
           return acc.concat(navItems[cur]);
         }, [])
         .concat(navItems.items)
-        .map(slug => {
-          const { node } = allMdx.edges.find(
-            ({ node }) => node.fields.slug === slug
-          );
-
+        .map( (slug) => {
+        const itemnode = allMdx.edges.find(
+          (nodeitem) => {
+            if(nodeitem.node && nodeitem.node.fields.slug === slug){
+              return nodeitem.node
+            }
+          }
+        );
+        console.log('元素查找', itemnode)
+          if(!itemnode) return null;
+          const node = itemnode.node ? itemnode.node : {}
           let isActive = false;
           if(location && (location.pathname === node.fields.slug || location.pathname === (config.gatsby.pathPrefix + node.fields.slug)) ) {
             isActive = true;

@@ -12,6 +12,7 @@
     "@mdx-js/mdx": "^1.5.3",
     "@mdx-js/react": "^1.5.3",
     "@playlyfe/gql": "^2.6.2",
+    "caniuse-lite": "^1.0.30001019",
     "dotenv": "^6.2.0",
     "emotion": "^10.0.27",
     "emotion-server": "^10.0.27",
@@ -46,6 +47,7 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
+    "dev": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build --prefix-paths"
   },

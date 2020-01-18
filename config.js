@@ -1,6 +1,6 @@
 const config = {
 	"gatsby": {
-		"pathPrefix": "/",
+		"pathPrefix": "/helpstag",
 		"siteUrl":'https://www.qushow365.com/help',
 		"gaTrackingId": null
 	},
@@ -14,8 +14,17 @@ const config = {
 	},
 	"sidebar": {
 		"forcedNavOrder": [
-			"/introduction",
-    		"/codeblock"
+			"/1-intor",
+			"/2-dic",
+			"/3-module",
+			"/4-create-project",
+			"/5-material",
+			"/6-trigger-event",
+			"/7-preview-release",
+			"/8-client-data",
+			"/9-aduit",
+			"/10-skill",
+			"/11-other"
 		],
 		"links": [
 			{ "text": "", "link": ""},
