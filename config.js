@@ -1,6 +1,6 @@
 const config = {
 	"gatsby": {
-		"pathPrefix": "/help",
+		"pathPrefix": "/help-auto",
 		"siteUrl":'https://www.qushow365.com/help',
 		"gaTrackingId": null
 	},
