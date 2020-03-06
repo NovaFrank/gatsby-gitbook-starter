@@ -169,13 +169,6 @@ metaDescription: "趣show是一个提供趣味互动营销HTML内容快速制作
 
 ![](https://sta.qushow365.com/public/help/040902.png "")
 
- 
-
-请参考下面的视频教程：
-
-
-
-[如何编辑容器.mov](https://qushow365.yuque.com/staff-lmzf2i/rtuegr/zhs7l6#g2XLh)
 
 
 
