@@ -21,12 +21,12 @@ metaDescription: "趣show是一个提供趣味互动营销HTML内容快速制作
 
     - 用户中心：提供购买套餐和用户的基本信息
 
-![](https://tcs-ga.teambition.net/storage/111pb22cc4ff89d2e862f5987554fc3a4257?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3OTE2NzQ1OCwiaWF0IjoxNTc4NTYyNjU4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXBiMjJjYzRmZjg5ZDJlODYyZjU5ODc1NTRmYzNhNDI1NyJ9.CO-ClVJ_bhBhh3MA9LlnLuUsRcBRPROmn5Tn_sWX9mY&download=1578310109632-35f69848-35e9-4408-8000-9385007b05b6.png "")
+![](https://sta.qushow365.com/public/help/0301.png "")
 
  **3.3 购买套餐**
 
        目前趣show平台提供4种套餐标准：免费版, 标准版，专业版，企业定制版。用户可以点击客户中心了解套餐详情，并购买相关套餐。
 
-![](https://tcs-ga.teambition.net/storage/111p0e678c1d86181289c4ec424ec5b0cc87?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3OTE2NzQ1OCwiaWF0IjoxNTc4NTYyNjU4LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXAwZTY3OGMxZDg2MTgxMjg5YzRlYzQyNGVjNWIwY2M4NyJ9.GQF7WLHLOtCCJe9VznDl5OllM7WPjvC3BQ7xm26GizM&download=1578310110046-06c539c1-c2ff-471d-8bce-b7310fd4479e.png "")
+![](https://sta.qushow365.com/public/help/0303.png "")
 
  

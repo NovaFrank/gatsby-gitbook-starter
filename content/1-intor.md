@@ -47,5 +47,5 @@ QQ号码：2057445356
 
 微信交流群：
 
-![](https://tcs.teambition.net/storage/111p227d72d7e9676f7a77ef2395f29ceee2?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IjVkYWVhNzg1NGMzMDY0MDAwMWQyNzE3ZCIsImV4cCI6MTU3OTE2NzgzMCwiaWF0IjoxNTc4NTYzMDMwLCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXAyMjdkNzJkN2U5Njc2ZjdhNzdlZjIzOTVmMjljZWVlMiJ9.Y6toiYZqAPza4Pg6B12jZUAmMhbxqTpyJKRSKOHHKYw&download=image.png "")
+![](https://sta.qushow365.com/public/help/0101.png "")
 

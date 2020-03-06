@@ -13,7 +13,7 @@ metaDescription: "趣show是一个提供趣味互动营销HTML内容快速制作
 
 
 
-![](https://tcs-ga.teambition.net/storage/111pf128d0e588c4445986104616a292582e?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3OTE2ODIyNSwiaWF0IjoxNTc4NTYzNDI1LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXBmMTI4ZDBlNTg4YzQ0NDU5ODYxMDQ2MTZhMjkyNTgyZSJ9._l-jYrCwpoed6qf3UqdEcwjI6hElNreOad19QCJxpfg&download=resize%2Cw_2142.png "")
+![](https://sta.qushow365.com/public/help/0501.png "")
 
 
 
@@ -25,7 +25,7 @@ metaDescription: "趣show是一个提供趣味互动营销HTML内容快速制作
 
 
 
-![](https://tcs-ga.teambition.net/storage/111p615c241dbaf17b7354dfdc2a98fd2900?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3OTE2ODIyNSwiaWF0IjoxNTc4NTYzNDI1LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXA2MTVjMjQxZGJhZjE3YjczNTRkZmRjMmE5OGZkMjkwMCJ9.-MkL2eqagK5pCWO-w660foKprhrmejmUNgTXnqXMrO4&download=1578309474677-da206d46-6aa5-48d6-bc1c-a45971acf734.png "")
+![](https://sta.qushow365.com/public/help/0502.png "")
 
 
 
@@ -35,5 +35,5 @@ metaDescription: "趣show是一个提供趣味互动营销HTML内容快速制作
 
 
 
-![](https://tcs-ga.teambition.net/storage/111p869f84592c9f50e9a4c0778ac5c8e8df?Signature=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBcHBJRCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9hcHBJZCI6IjU5Mzc3MGZmODM5NjMyMDAyZTAzNThmMSIsIl9vcmdhbml6YXRpb25JZCI6IiIsImV4cCI6MTU3OTE2ODIyNSwiaWF0IjoxNTc4NTYzNDI1LCJyZXNvdXJjZSI6Ii9zdG9yYWdlLzExMXA4NjlmODQ1OTJjOWY1MGU5YTRjMDc3OGFjNWM4ZThkZiJ9.0n73UYfJQWsQ3fs-62Y0AmzzWzhZ6NYYVVY6DnPG_48&download=1578542835309-ed3dd85e-f2b6-433c-9c67-8ea173b5c2a7.png "")
+![](https://sta.qushow365.com/public/help/0503.png "")
 
